@@ -4,14 +4,14 @@ const btnDocumentation = document.querySelector("#btnDocumentation");
 const btnInformation = document.querySelector("#btnInformation");
 
 btnHome.addEventListener("click", function () {
-  location.href = "/";
+  location.href = "ProjectCAF02//";
 });
 btnComparison.addEventListener("click", function () {
-  location.href = "/comparison.html";
+  location.href = "ProjectCAF02/comparison.html";
 });
 btnDocumentation.addEventListener("click", function () {
-  location.href = "/documentation.html";
+  location.href = "ProjectCAF02/documentation.html";
 });
 btnInformation.addEventListener("click", function () {
-  location.href = "/information.html";
+  location.href = "ProjectCAF02//information.html";
 });
