@@ -4,7 +4,7 @@ const btnDocumentation = document.querySelector("#btnDocumentation");
 const btnInformation = document.querySelector("#btnInformation");
 
 btnHome.addEventListener("click", function () {
-  location.href = "ProjectCaf2/";
+  location.href = "/";
 });
 btnComparison.addEventListener("click", function () {
   location.href = "/comparison.html";
